@@ -1,6 +1,6 @@
 import { useGSAP } from "@gsap/react"
 import gsap from "gsap";
-import Modelview from "./Modelview";
+import ModelView from "./ModelView";
 import { useEffect, useRef, useState } from "react";
 import { yellowImg } from "../utils";
 
