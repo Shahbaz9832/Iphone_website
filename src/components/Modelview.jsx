@@ -6,7 +6,7 @@ import Loader from './Loader';
 import IPhone from './IPhone';
 import { Suspense } from "react";
 
-const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
+const Modelview = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
   return (
     <View
       index={index}
@@ -43,4 +43,4 @@ const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, si
   )
 }
 
-export default ModelView
+export default Modelview
