@@ -39,27 +39,9 @@ const Footer = () => {
               
           </div>
         </div>
-         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
-<div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Made by </p>
-          <div className="flex">
-        <div className="flex">
-            {foot.map((link, i) => (
-              <p key={link} className="font-semibold text-gray text-xs">
-                {link}{' '}
-
-              </p>
-            ))}
-              
-          </div>
-        </div>
-
-        </div>
-
-        
-      </div>
+         
       
-    </footer>
+      </footer>
   )
 }
 
