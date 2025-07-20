@@ -1,12 +1,20 @@
-# React + Vite
+# 🍎 Apple iPhone Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive clone of Apple's iPhone website built using **HTML**, **CSS**, and **JavaScript**. This project mimics the elegant UI/UX of Apple's product landing page with smooth animations and layout transitions.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+[🚀 Click here to view the live website](https://iphone-website-nu-nine.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- Full-screen hero section with iPhone product image
+- Smooth scroll and section-based layout
+- Clean, Apple-style UI and animations
+- Mobile-responsive design using Flexbox & Media Queries
+- Lightweight and fast-loading
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- (Optional) GSAP for animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
